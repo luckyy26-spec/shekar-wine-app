@@ -1,19 +1,20 @@
-<h1 align="center">Welcome to vite_react_shadcn_ts 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/vite_react_shadcn_ts" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/vite_react_shadcn_ts.svg">
-  </a>
-</p>
+# 🍷 Shekar - Mood-Based Wine Concoctions
 
-## Install
+Create personalized elixirs based on mood, flavor, and alcohol level.
 
-```sh
+✨ Built with:
+- React + Vite
+- TailwindCSS + ShadCN
+- Radix UI
+- TypeScript
+
+🎯 Features:
+- Flavor compatibility checker
+- Mood-based alcohol recommendations
+- GCash payment integration
+- Charity support
+
+📦 To run:
+```bash
 npm install
-```
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+npm run dev
