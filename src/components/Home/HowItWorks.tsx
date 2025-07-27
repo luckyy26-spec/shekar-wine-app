@@ -16,7 +16,7 @@ const HowItWorks = () => {
       title: "Choose Your Ingredients",
       description: "Select from our premium collection of fruits, botanicals, and flavor profiles. Our interactive guide helps you create the perfect blend based on your taste preferences.",
       image: step1,
-      duration: "2-3 minutes",
+      duration: "1 minute",
       features: ["50+ Premium Ingredients", "Flavor Compatibility Guide", "Personalized Recommendations"]
     },
     {
@@ -24,7 +24,7 @@ const HowItWorks = () => {
       title: "Customize Your Blend",
       description: "Our master blenders craft your unique wine using traditional methods combined with modern techniques. Watch your creation come to life through our transparent process.",
       image: step2,
-      duration: "7-10 days",
+      duration: "3-5 minutes",
       features: ["Expert Craftsmanship", "Quality Control", "Custom Alcohol Content"]
     },
     {
@@ -32,7 +32,7 @@ const HowItWorks = () => {
       title: "Premium Packaging",
       description: "Your custom wine is carefully bottled in premium glass containers with personalized labels. Choose from our selection of elegant bottle options.",
       image: step3,
-      duration: "1-2 days",
+      duration: "1 day",
       features: ["Premium Glass Bottles", "Custom Labels", "Gift Packaging Available"]
     },
     {
